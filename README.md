@@ -2,17 +2,22 @@
 
 我是焚天烈渊寂灭恐惧战马，需要三个乡村乐转职达成棱彩大羁绊
 
-<!--
-**ShenCha1102/ShenCha1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+首先我学习了**初始化操作**（init）：
+1. 点击VScode最左侧的第三个tab“源代码管理”，或快捷键ctrl+shift+G；
+2. 点击“初始化存储库”。
 
-Here are some ideas to get you started:
+刚刚我学会了**拉取操作**（PULL）：
+1. 在VScode中按F1或 ctrl+shift+P；
+2. 输入git:clone；
+3. 再输入需要拉取的项目网址。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**配置“.gitignore文件”**：
+1. 在项目文件夹里创建一个名为.gitignore的md文件；
+2. 逐行加入不需要上传git的相对路径。
+
+又学习了**提交操作**：
+1. 打开“源代码管理”；
+2. 对更新了的文件点击“√”；
+
+**ctrl + ~可以打开终端**
+
